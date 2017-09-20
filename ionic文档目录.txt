@@ -1,0 +1,62 @@
+
+
+目录
+
+NATIVE 本地
+	Overview 			概述
+	Browser Usage 			浏览器用途
+	3D Touch 			3D触摸
+	Action Sheet
+	AdMob Free
+	AdMob Pro 
+	AliPay 				支付宝 
+	Android Fingerprint Auth	安卓指纹授权
+	Android Full Screen		安卓满屏显示
+	Android Permissions		安卓授权
+	App Availability		APP有效性
+	App Minimize
+	App Preferences			APP偏好
+	App Rate			APP评价
+	App Update			APP更新
+	App Version			APP版本
+	Appodeal
+	Autostart			自动启动
+	Background Fetch		后台运行
+	Background Geolocation		后台定位
+	Background Mode			后台模式
+	Badge				标记
+	Barcode Scanner			条形码扫描仪
+	Base64 To Gallery		允许用户保存base64数据成为一张png图片
+	Battery Status			电池状态	
+	BLE				允许手机与蓝牙设备通信
+	Bluetooth Serial		允许通过蓝牙持续通信
+	Brightness			亮度
+	Broadcaster			广播员，在本地和APP之间添加交流事件
+	Browser Tab			浏览器标签
+	Calendar			日历，允许在手机设备添加事件到日历
+	Call Number			打电话，直接从APP中拨打电话
+	Camera				相机，照相或者摄像
+	Card IO
+	Clipboard			剪贴板
+	Code Push
+	Contacts			通讯簿，查看和管理通讯簿
+	Couchbase Lite
+	Crop				剪切
+	Date Picker			日期选择器
+	DB Meter
+	Deeplinks			长链接
+	Device				设备，获取设备和平台信息
+	Device Accounts			设备账号，获取与安卓设备相关的谷歌账号
+	Device Feedback			设备反馈
+	Device Motion			设备运动
+	Device Orientation		设备方向
+	Diagnostic			诊断程序，核对设备硬件特性是否可用
+	Dialogs				对话框
+	Document Viewer			文档阅读器
+	Email Composer			邮件操作
+	Estimote Beacons
+	
+
+	
+	
+
