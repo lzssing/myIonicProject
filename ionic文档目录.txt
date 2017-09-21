@@ -56,7 +56,56 @@ NATIVE 本地
 	Email Composer			邮件操作
 	Estimote Beacons
 	
+	Facebook			用于跟本地Facebook应用进行交互
+	FCM
+	File				文件，读写本地设备上的文件
+	File Chooser			文件选择器，打开本地文件，选择文件，并返回一个文件URL
+	File Encryption			文件加密
+	File Opener			打开文件，使用本地默认应用打开文件
+	File Path			文件路径，用以处理本地文件URL
+	File Transfer			文件传输，用以上传和下载文件
+	Fingerprint AIO			指纹认证
+	Flashlight			手电筒
+	Flurry Analytics
+	FTP				使用FTP
+	Geofence			地理围栏
+	Geolocation			地理定位
+	Globalization			国际化
+	Globalization			谷歌分析学SDK
+	Google Maps			谷歌地图
+	Google Plus
+	Gyroscope			陀螺仪
+	Header Color			头部颜色，用于改变android多任务视图的头部颜色
+	Health				健康
+	Health Kit			健康设备，用于读取本地的健康数据
+	HTTP				用以与HTTP服务器链接
 
-	
-	
+	IBeacon				灯塔
+	Image Picker			图片选择器，用于多图选择
+	Image Resizer			修改图片大小
+	In App Browser			在APP浏览器中运行
+	In App Purchase			在APP中购买
+	In App Purchase2
+	Insomnia			休眠
+	Instagram			使用Instagram app分享图片
+	Intel Security			安全性
+	Intercom			内部通话系统
+	Is Debug			判断应用是否DEBUG模式
+	Jins Meme			JINS MEME SDK的实现
 
+	Keyboard			使用键盘输入
+	Keychain			钥匙链子
+	Keychain Touch Id
+	Launch Navigator
+	Launch Review
+	LinkedIn			使用LinkedIn本地SDKs
+	Local Notifications		本地通知
+	Location Accuracy		位置精确度
+	Market				在市场内打开APP页面
+	Media				多媒体
+	Media Capture			多媒体捕捉
+	Mixpanel			Mixpanel SDK
+	Mobile Accessibility
+	MS ADAL
+	Music Controls			音乐控制
+	Native Audio			本地录音
