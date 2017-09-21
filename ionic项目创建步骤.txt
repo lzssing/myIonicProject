@@ -1,0 +1,6 @@
+一.新建项目
+	前提：已安装nodejs、npm、typescript
+	1.安装ionic以及cordova	【 npm install -g ionic cordova 】	
+	2.新建项目，选择模板(等待时间根据网络情况而定)	【 ionic start projectName 】
+	3.进入项目目录	【 cd projectName 】
+	4.启动项目	【 ionic serve 】
