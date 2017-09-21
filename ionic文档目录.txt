@@ -6,6 +6,7 @@ NATIVE 本地
 	Overview 			概述
 	Browser Usage 			浏览器用途
 	3D Touch 			3D触摸
+
 	Action Sheet
 	AdMob Free
 	AdMob Pro 
@@ -21,6 +22,7 @@ NATIVE 本地
 	App Version			APP版本
 	Appodeal
 	Autostart			自动启动
+
 	Background Fetch		后台运行
 	Background Geolocation		后台定位
 	Background Mode			后台模式
@@ -33,6 +35,7 @@ NATIVE 本地
 	Brightness			亮度
 	Broadcaster			广播员，在本地和APP之间添加交流事件
 	Browser Tab			浏览器标签
+
 	Calendar			日历，允许在手机设备添加事件到日历
 	Call Number			打电话，直接从APP中拨打电话
 	Camera				相机，照相或者摄像
@@ -42,6 +45,7 @@ NATIVE 本地
 	Contacts			通讯簿，查看和管理通讯簿
 	Couchbase Lite
 	Crop				剪切
+
 	Date Picker			日期选择器
 	DB Meter
 	Deeplinks			长链接
@@ -53,6 +57,7 @@ NATIVE 本地
 	Diagnostic			诊断程序，核对设备硬件特性是否可用
 	Dialogs				对话框
 	Document Viewer			文档阅读器
+
 	Email Composer			邮件操作
 	Estimote Beacons
 	
@@ -68,13 +73,15 @@ NATIVE 本地
 	Flashlight			手电筒
 	Flurry Analytics
 	FTP				使用FTP
+
 	Geofence			地理围栏
 	Geolocation			地理定位
 	Globalization			国际化
-	Globalization			谷歌分析学SDK
+	Globalization			谷歌分析
 	Google Maps			谷歌地图
 	Google Plus
 	Gyroscope			陀螺仪
+
 	Header Color			头部颜色，用于改变android多任务视图的头部颜色
 	Health				健康
 	Health Kit			健康设备，用于读取本地的健康数据
@@ -91,16 +98,19 @@ NATIVE 本地
 	Intel Security			安全性
 	Intercom			内部通话系统
 	Is Debug			判断应用是否DEBUG模式
+
 	Jins Meme			JINS MEME SDK的实现
 
 	Keyboard			使用键盘输入
 	Keychain			钥匙链子
 	Keychain Touch Id
+
 	Launch Navigator
 	Launch Review
 	LinkedIn			使用LinkedIn本地SDKs
 	Local Notifications		本地通知
 	Location Accuracy		位置精确度
+
 	Market				在市场内打开APP页面
 	Media				多媒体
 	Media Capture			多媒体捕捉
@@ -108,4 +118,74 @@ NATIVE 本地
 	Mobile Accessibility
 	MS ADAL
 	Music Controls			音乐控制
-	Native Audio			本地录音
+
+	Native Audio			本地音频
+	Native Geocoder			本地地理编码
+	Native Keyboard			本地键盘
+	Native Page Transitions		本地页面华滑动
+	Native Storage			本地存储
+	Network				网络
+	NFC
+
+	OneSignal			OneSignal服务
+	Open Native Settings		打开本地设置
+
+	PayPal
+	Pedometer			计步器
+	Phonegap Local Notification	PhoneGap本地通知
+	Photo Library			照片库
+	Photo Viewer			照片查看器
+	Pin Check			pin检查
+	Pin Dialog			pin对话框
+	Power Management		电源管理
+	Printer				打印机
+	Push				推送
+
+	QQSDK				对QQ SDK的封装，提供对QQ分享、QQ空间分享等访问
+	QR Scanner			二维码扫描仪
+
+	Safari View Controller		Safari试图控制器
+	Screen Orientation		屏幕方向，用以设置或者锁定屏幕方向
+	Screenshot			截屏，用以捕获截屏
+	Secure Storage			安全存储
+	Serial
+	Shake				抖动，处理抖动
+	Sim				获取sim卡信息
+	SMS				发送SMS信息
+	Social Sharing			通过社会网络、sms、email分享文本、文件、图片、链接等
+	Speech Recognition		语音识别，使用云服务进行语音识别
+	Spinner Dialog
+	Splash Screen			飞溅屏幕，在应用启动时显示或者隐藏一个飞出的屏幕
+	SQLite				访问本地SQLite数据库
+	SQLite Porter			使用SQL或者JSON从SQLite中导入或者导出数据
+	Status Bar			管理本地状态栏的显示
+	Stepcounter			使用设备上的计步器
+	Streaming Media			流媒体，在全屏、本地播放器中播放音频和视频
+	Stripe		                允许使用条纹本地SDK
+
+	Taptic Engine			在iPhone7使用Taptic引擎
+	Text To Speech			文字转换成语音	
+	Themeable Browser		主题浏览器
+	Toast				允许弹出一些提示
+	Touch ID			扫描用户与TouchID相关的指纹
+	Twitter Connect			Twitter连接
+
+	Unique Device ID		唯一设备ID
+	User Agent			用户代理，提供设置HTTP用户代理头部的方法
+	User Agent			震动
+
+	Video Editor			视频编辑器，使用本地设备API编辑视频
+	Video Player			视频播放器，可以全屏播放视频
+
+	Youtube Video Player		Youtube视频播放器
+
+	ZBar				ZBar扫描仪，允许你扫描2d 条形码
+	Zeroconf			零配置，允许你流量
+	Zip				解压文件
+
+	
+
+
+		
+	
+	
